@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://tetri.net.br/</loc>
+  <changefreq>never</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/downloads.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/tutorial.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/dicas.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.6</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/informacoes.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/tetrinet2.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/temas.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/principal.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/tncores.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_nick.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_glossario.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_individuais.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_solucao.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_tetrinet2.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_players.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_medalhas.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/inf_historia.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/A.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/C.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/N.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/R.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/S.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/B.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/G.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/Q.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/O.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/V.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/I.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/P.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/F.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/blocos/M.htm</loc>
+  <changefreq>never</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://tetri.net.br/temas2.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://tetri.net.br/preview.htm</loc>
+  <changefreq>never</changefreq>
+</url>
+</urlset>
